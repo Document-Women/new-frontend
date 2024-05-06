@@ -35,7 +35,7 @@ export default function Home({ posts, pagination }) {
       </Header> */}
 
       <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh' }}>
-        <h1>Site under development.</h1>
+        <h1>Site under development...</h1>
       </div>
 
       <Section style={{ display: 'none' }}>
